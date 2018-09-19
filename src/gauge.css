@@ -1,0 +1,18 @@
+:global .label{
+	font-size:22.5px;
+	fill:#ffffff;
+	text-anchor:middle;
+	alignment-baseline:middle;
+}
+:global .face{
+	stroke:#c8c8c8;
+	stroke-width:2;
+}
+:global .minorTicks{
+	stroke-width:2;
+	stroke:white;
+}
+:global .majorTicks{
+	stroke:white;
+	stroke-width:3;
+}
